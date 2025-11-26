@@ -4,8 +4,6 @@ A simple **single-screen calculator app** built with **Flutter**.
 
 ## Preview
 
-![image](https://drive.google.com/drive/folders/18_6XwUjNXH2i2Rn6VE4DM5zDQww7itS-?usp=drive_link)
-
 [Watch Short Video Preview](https://youtube.com/shorts/KlL5XJSmMHs)
 
 ## Features
