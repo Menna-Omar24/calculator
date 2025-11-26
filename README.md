@@ -1,13 +1,25 @@
-# 📱 Basic Calculator App
+# 📱 Calculator App
 
-A simple calculator app built with Flutter.
+A simple **single-screen calculator app** built with **Flutter**.
 
 ## Preview
 
-![Calculator App Preview](assets/calculator.png)
+![Splash Screen](assets/splash_view.png)
+![Calculator Screen](assets/calculator_view.png)
+![Calculator Screen](assets/calculator.png)
 
 [Watch Short Video Preview](https://youtube.com/shorts/KlL5XJSmMHs)
 
 ## Features
 - Splash Screen
-- Calculator main screen with addition, subtraction, multiplication, and division
+- Calculator main screen
+- Supports addition, subtraction, multiplication, and division
+- Simple and clean UI
+
+## Getting Started
+
+This project is built with Flutter. To run it on your machine:
+
+1. Clone the repository:
+```bash
+git clone https://github.com/Menna-Omar24/calculator.git
